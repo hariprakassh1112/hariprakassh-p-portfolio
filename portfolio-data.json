@@ -1,0 +1,172 @@
+{
+  "settings": {
+    "name": "HARIPRAKASSH P",
+    "title": "Java Full Stack Developer Trainee",
+    "location": "India",
+    "summary": "Motivated Computer Science graduate with expertise in Java, OOPS, SQL, and backend development, eager to contribute to software development.",
+    "profileImage": "https://t4.ftcdn.net/jpg/04/31/64/75/360_F_431647519_usrbQ8Z983hTYe8zgA7t1XVc5fEtqcpa.jpg"
+  },
+  "sections": {
+    "hero": {
+      "enabled": true,
+      "ctaButtons": [
+        {
+          "text": "Get In Touch",
+          "url": "mailto:hariprakassh.p11@gmail.com"
+        },
+        {
+          "text": "View Resume",
+          "url": "#"
+        }
+      ]
+    },
+    "about": {
+      "enabled": true,
+      "skills": {
+        "enabled": true,
+        "title": "Technical Skills",
+        "items": [
+          "Java",
+          "MySQL",
+          "JDBC",
+          "Hibernate",
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Git",
+          "GitHub",
+          "Zapier",
+          "Cursor AI IDE"
+        ]
+      }
+    },
+    "experience": {
+      "enabled": true,
+      "title": "Work Experience",
+      "items": [
+        {
+          "company": "KodNest Technologies",
+          "position": "Java Full Stack Developer Trainee",
+          "period": "June 2025 - October 2025",
+          "description": "Trained in Core Java, JDBC, SQL, and backend development principles. Practiced Agile development methodology through sprints and code reviews."
+        },
+        {
+          "company": "Corizo",
+          "position": "Android App Development Intern",
+          "period": "July 2023 - Sept 2023",
+          "description": "Developed responsive user interfaces for a cross-platform mobile application using the Flutter framework and Dart programming language. Improved problem-solving skills through debugging and testing."
+        }
+      ]
+    },
+    "projects": {
+      "enabled": true,
+      "title": "Featured Projects",
+      "items": [
+        {
+          "title": "Bus Ticket Reservation System",
+          "description": "Developed a console-based application for booking and managing bus tickets, focusing on robust backend logic and database interaction. Applied Object-Oriented Programming (OOPs) principles by creating classes for Bus, Passenger, and Booking to manage data effectively. Integrated a MySQL database using JDBC to handle all persistent data, including bus schedules, seat availability, and booking information.",
+          "tags": [
+            "Core Java",
+            "JDBC",
+            "MySQL",
+            "OOPs"
+          ],
+          "previewUrl": "",
+          "repoUrl": ""
+        },
+        {
+          "title": "Smart Citizen Website",
+          "description": "Developed a web platform for citizens to report local civic issues using location-based data. Engineered an automatic notification system to alert the nearest responsible officer for timely resolution. Enhanced community engagement by implementing a feature for users to track the status of their reports.",
+          "tags": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+          ],
+          "previewUrl": "",
+          "repoUrl": ""
+        }
+      ]
+    },
+    "education": {
+      "enabled": true,
+      "title": "Education",
+      "items": [
+        {
+          "institution": "Knowledge Institute of Technology",
+          "degree": "B.E. in Computer Science and Engineering",
+          "period": "Nov 2021 - May 2025"
+        },
+        {
+          "institution": "Shri Vidhya Matric Hr. Sec. School",
+          "degree": "HSC - Biology-Maths",
+          "period": "Jun 2019 - May 2021"
+        }
+      ]
+    },
+    "achievements": {
+      "enabled": true,
+      "title": "Achievements & Certifications",
+      "items": [
+        {
+          "title": "Top 100, Socio-Tech Hackathon 2024",
+          "description": "KPR College of Arts and Science, Coimbatore"
+        }
+      ]
+    },
+    "contact": {
+      "enabled": true,
+      "title": "Contact",
+      "email": "hariprakassh.p11@gmail.com",
+      "phone": "7695861270",
+      "location": "India"
+    },
+    "social": {
+      "enabled": true,
+      "items": [
+        {
+          "platform": "linkedin",
+          "url": "https://linkedin.com/in/hariprakassh",
+          "icon": "linkedin"
+        },
+        {
+          "platform": "github",
+          "url": "https://github.com/hariprakassh",
+          "icon": "github"
+        }
+      ]
+    },
+    "navigation": {
+      "enabled": true,
+      "items": [
+        {
+          "name": "Home",
+          "url": "/"
+        },
+        {
+          "name": "About",
+          "url": "#about"
+        },
+        {
+          "name": "Projects",
+          "url": "#projects"
+        },
+        {
+          "name": "Experience",
+          "url": "#experience"
+        },
+        {
+          "name": "Education",
+          "url": "#education"
+        },
+        {
+          "name": "Contact",
+          "url": "#contact"
+        }
+      ]
+    },
+    "footer": {
+      "enabled": true,
+      "copyright": "© 2025 HARIPRAKASSH P. All rights reserved."
+    }
+  }
+}
